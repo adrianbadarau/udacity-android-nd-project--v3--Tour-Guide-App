@@ -117,13 +117,11 @@ public class MainActivity extends AppCompatActivity
 
     @Override
     public void onListFragmentInteraction(BratislavaAttraction item) {
-        Log.d("TEERR","rereeree");
         AttractionItemView attractionItemView = AttractionItemView.newInstance(item);
         changeFragment(attractionItemView);
     }
 
     @Override
     public void onFragmentInteraction(Uri uri) {
-        Log.d("DSDSADSA","DSADAS");
     }
 }
