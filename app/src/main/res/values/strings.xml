@@ -1,0 +1,104 @@
+<resources>
+    <string name="app_name">TourGuider</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Tour Guider</string>
+    <string name="nav_header_subtitle">guide-tour.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="bratislava_castel_desc">
+Bratislava Castle or Hrad sits on a hill overlooking the city. Initially a Roman frontier post, there has been a castle at this site since the 9th century. In 1881, it was reduced to rubble due to a fire and wasn’t reconstructed until the mid 1900s. Its appearance has been likened to an upside down table with four corner towers that look like table legs. In spite of its drab exterior the Castle is worth a visit for the museums housed inside as well as the panoramic views over the city.
+
+The various rooms of The History Museum and the National Museum a worth to visit. A large section was devoted to art – approximately 3500 paintings, statues, and prints by domestic and foreign artists grouped according to theme. Religious art in one room, painting and portraits of royalty such as Maria Theresa and Maria Antoinette in another, more portraits and finally, sculpture and modern art such as Julius Koller’s question mark canvas. One of the highlighted displays was copies of 15th century altarpieces and church statues done by Paul of Levoca and many of his students.
+
+Other rooms, large enough to double for warehouses, were filled with coloured Slovakian glassware, carved wooden furniture, clocks, weapons, helmets and armor. There is an impressive display of silver with bowls, plates and utensils from the 17th to 19th century. Also impressive was a Renaissance jewel chest, circa 1600, and a replica of the crown of the Hungarian kings. Near the crown was a steep flight of stairs leading to the Crown Tower, a small enclosed tower offering 360 degree views of the city.
+
+The castle is open from 9am to 5pm, Tuesday through Sunday. To get to the castle from Old Town, cross the busy motorway through the underpass by St. Martin’s Church. You’ll then head uphill, past the pretty yellow and white House of the Good Shepherd, which now houses a clock museum.
+    </string>
+    <string name="devin_castel_desc">
+Devin Castle above the confluence of the rivers Danube and Morava is one of the three oldest historically acknowledged castles in Slovakia. The village of Devin is now a part of Bratislava. Oldest traces of settlement there date back to the 5th century B.C. Due to its advantageous geographical position, it was able to control the most important trade routes along the Danube as well as one part of the Amber Road. In the 1st century B.C, the territory was populated by Celts. The castle played an important role as a boundary fortress as a part of the Limes Romanus fortifications against enemies at the times of the Roman Empire and as a military station and trade centre at the times of the Great Moravian Empire the first Slavic state. The first written reference to the castle and its ancient name – Dowina comes from 864. After the fall of the Great Moravian Empire, the castle served again as a boundary fortress under the reign of the Hungarians. The castle was altered in 13th and 16th century and destroyed by Napoleon\'s troops in 1809.
+
+Devin Castle has been a National cultural monument since 1961. Nowadays the castle serves as a museum. The middle-castle is used as a show-room for seasonal exhibitions concerning history of the castle which artefacts date back to the ancient times and Middle Ages. The caves are used as a show-room for permanent exhibition under the name "Architectural development of Devin Castle". The displayed artefacts date back to 12th - 19th century.
+
+The castle is open to the public May-October daily except for Mondays from 10am to 5pm and on weekends from 10am to 6pm. The castle is accessible by car (direction Karlova Ves and Devin), public transport (bus No. 29 from bus stop under the New Bridge - Novy most ), boat, bicycle or walking. The boat leaves twice a day from a special port near the city centre (Fajnorovo nabrezie 2 - Fajnorovo Embankment). From April 25 to May 21 and from August 29 to September 17 the boat leaves the port in Bratislava at 11am and 4pm. From May 23 to August 27 the boat leaves the port at 10 am and 2:30 pm. It is possible to carry a bicycle.
+    </string>
+    <string name="primatial_palace_desc">
+The Palace, built in 1778 and located in the centre of Old Town is considered as one the most beautiful building in Bratislava. Its pale pink and white exterior is topped with various marble statues and a large cast iron cardinal’s hat. The hat is a symbol of the Archbishop, for whom the palace was built, and of the various cardinals who lived here throughout the years.
+
+The palace is filled with large oil portraits of Hapsburg royalty, including one from 1742 of Marie Therese at her coronation. Individual rooms are sparsely furnished, which causes you to focus on what is there – large, sparkling crystal chandeliers and walls adorned with six English tapestries from the 17th century that had been hidden in the palace walls and discovered during renovations in the early 1900s.
+
+Another major attraction in the palace is the ornate Hall of Mirrors. Although built on a smaller scale than Versailles, the Hall is still an impressive sight as well as being historically significant. It was here that Napoleon and Francis I signed the Treaty of Pressberg (Bratislava’s former name) in 1805, after the Battle of Austerlitz where 50,000 Russian, French and Austrian troops were killed.
+
+Other points of interest are the fountain and statue of St. George in the courtyard and the St. Ladislaus chapel. The palace is open from Tuesday through Sunday, 10am to 5pm.
+    </string>
+    <string name="grassalkovich_palace">
+Now the home to Slovakia\'s President, Grassalkovich Palace was once the home and meeting place for several members of the Austro-Hungarian and Habsburg aristocracy.
+
+Grassalkovich Palace was built in the 1760\'s by Count Anton Grassalkovich, the President of the Royal Hungarian Chamber and advisor to the Empress Maria Theresia. It is said that the inventor Wolfgang von Kempelen introduced several of his inventions, including a speaking machine, in the palace\'s State Rooms.
+
+Grassalkovich Palace is guarded 24 hours a day by an honour guard who can be seen marching in front of the castle daily by visitors. Grassalkovich Palace is situated in a huge, open park with a Baroque garden that is open to the public, even when the President is in residence.
+
+Grassalkovich Palace is located in the Hodzovo Namestie (Hodza Square). It is beautiful especially during the Christmas time as all building is perfectly and detaily illuminated. Even the trees in the gardens are unforgettable.
+    </string>
+    <string name="st_elizabeth_s_church">
+It is one of the most beautiful pieces of Art Nouveau architecture in the world.
+
+The Second Church of St. Elizabeth or the Blue Little Church (Modry kostolik) was built from 1907-1913 according to the design of Hungarian architect Odon Lechner. Today, the Blue Church also has a high school and rectory.
+
+The Blue Church has one nave and a cylindrical tower and the exterior design is of the Hungarian Art Nouveau style and is decorated with bright and beautiful blue majolica tiles. Majolica is a tile indigenous to Slovakia and is manufactured in the city of Modra (Western Slovakia). The roof is also decorated with glazed blue tiles.
+
+Church is situated at Bezrucova street which is a short walk from Main Square. You definitely should make a special trip to see this work of art and beauty if you visit Bratislava.
+    </string>
+    <string name="st_martin_s_cathedral">
+Situated on the edge of the Old Town, St. Martin’s Cathedral is Bratislava’s foremost Gothic structure. The church, originally built in the 13th century in the Romanesque style, was replaced by a 3-nave Gothic Dome in the late 14th century. The new St. Martin\'s Cathedral was consecrated in 1452 and underwent several lengthy reconstructions in later centuries. In the 16th century, the Dome became the coronation church of Hungarian kings and there were 19 Hungarian Emperors (including Maria Theresia) crowned in the cathedral until the 19th century. The cathedral was actually built into the town\'s outer walls as part of its fortification.
+
+The cathedral has three naves, with several chapels added from time to time over the centuries. Its most famous work of art is an 18th century statue of St. Martin and the Beggar sculpted by famous Austrian baroque sculptor Raphael Donner. Another sight not to miss is St. Stephen\'s Crown, a 1m high copy of the Hungarian royal crown placed on the church tower, some 85 meters (280 feet) above town. Over the portal that used to be the cathedral\'s main entrance, there is a Gothic relief depicting the Holy Trinity.
+
+Facing the rear of the church after walking in, there is a gallery where the king could sit above the congregation during services. On a tablet underneath this gallery on the rear wall of the church is a notice commemorating Beethoven\'s op. 123, which premiered here during the 18th century. The especially vivid stained glass in St Martin\'s draws the viewer forward into the main body of the church, where thick columns support the church roof.
+
+The surroundings of St Martins are as memorable as the structure itself. In the cathedral’s case, this includes the picturesque remains of outbuildings in a spacious staired courtyard, and a working seminary with robed adepts on a cobblestone side street. A small but significant neighbour of the cathedral is a monument to the synagogue, which stood next door for centuries until the communist government demolished it around 1970 to make room for the new bridge.
+    </string>
+    <string name="slovak_national_museum">
+The Slovak National Museum was founded in 1961 and nowdays manages 16 specialized museums both in and outside Bratislava. Some of them are listed below:
+
+Natural Science Museum (Vajanskeho nabrezie 2)
+
+The Natural Science Museum is focused on the research, documentation and presentation of the diversity and development of the living and non-living natural environment, in particular within Slovakia. It is a central methodological workplace with a nationwide scope. Through its collections (of approx. 2.4 million objects) it ranks among the most important natural science museums in Europe. The acquisition activities of the museum are focused primarily on the territory of Slovakia.
+
+Archaeological Museum and Museum of History (Bratislava Castle)
+
+Largest archeological exhibition "Treasures of Slovakia's Long-Gone Past" and many other historical exhibitions (history, furniture, clocks and many others)
+
+Červený Kameň Museum (Cerveny Kamen Castle)
+
+The Červený Kameň Museum is a specialized museum documenting the development of residences of the aristocracy and the urban classes in Slovakia, emphasizing the art-history character of the objects and history of the Červený Kameň Castle. The collection activities of the museum are oriented on historical furniture, furnishings and household accessories, artefacts, art and sculpture, art and craft objects and historical weapons.
+
+Museum of Jewish Culture (next to the tram tunnel on Zidovska 17)
+    </string>
+    <string name="bratislava_city_museum">
+Its headquarters are located in the Old Town Hall on Main Square. The museum documents the history of Bratislava from the earliest periods until the 20th century. The Bratislava City Museum is the oldest museum in continuous operation in Slovakia. The Bratislava City Museum manages several specialized museums.
+
+Some of them are listed below but find all details on Bratislava City Museum.
+
+Museum of the City History (Old Town Hall)
+Museum of City History is main museum, which displays archaeological discoveries and findings and documents a history of pharmacy, culture, social life and numismatics. Exposition of Viticulture and Winemaking is separate museum in adjacent building.
+
+Museum of Arms and City Fortifications (Michael’s Tower)
+This Arms and Municipal Fortifications Museum is very popular also thanks to wonderful view from the top of the tower.
+
+Museum of Clocks housed at the House of the Good Shepherd (Zidovska street)
+Remarkable feature of the museum is a collection of portable sundials from the 16th to 18th centuries
+
+Devín Castle National Cultural Monument (in Devin Castle)
+Perfect trip to castle ruins at confluence of Danube and Morava rivers, accessible by car or bus. Open April-October. Mainly archeological history of the castle and really fascinating exhibit.
+
+Ancient Times Gerulata National Cultural Monument (Rusovce)
+The exposition brings the history of Roman Empire in the territory of Slovakia closer. The museum is located in the space where a Roman military camp Gerulata used to be. Province Panonia is the only one in our territory that was an integral part of the Roman Empire. It was built in the 2nd century as a part of the Limes Romanus system. It was abandoned in the 4th century, when Roman legions withdrew from Pannonia.
+    </string>
+    <string name="slovak_national_gallery">
+Was founded in 1948 and is the most extensive network of galleries in Slovakia. Two displays in Bratislava are situated adjacent one to another at Esterházy Palace (Esterházyho palác) and the Water Barracks (Vodné kasárne), both located on the Danube riverfront in the Old Town.
+    </string>
+    <string name="bratislava_city_gallery">
+Gallery was founded in 1961, is the second largest Slovak gallery of its kind. The gallery offers permanent displays at Pálffy Palace (Pálffyho palác) and Mirbach Palace (Mirbachov palác), located in the Old Town.
+    </string>
+</resources>
